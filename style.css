@@ -1,0 +1,72 @@
+h1 {
+    color: coral;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    margin-left: 2em;
+    margin-top: 3em;
+}
+
+nav {
+    margin-left: 0em;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    color: gray;
+}
+
+.btn {
+    color: gray;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+}
+
+.img {
+    
+}
+
+p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    
+    
+}
+
+.date {
+    color:rgba(150, 150, 151, 0.722) ;
+}
+
+#btn {
+    text-decoration-line: underline;
+    margin-left: 2em;
+}
+
+footer {
+    padding-bottom: 2em;
+}
+
+<style type = "text/css">
+a:link {color: #a0a0a0;}
+a:visited {color: #a0a0a0}
+a:hover {color: #a0a0a0}
+a:active {color: #a0a0a0}
+</style>
